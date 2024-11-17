@@ -1,12 +1,13 @@
-<p style="text-align: center;">
-  <span style="font-size: 49px; font-weight: bold;">DevsCorp</span>
-</p>
-<p style="text-align: center;">
-  <img src="https://res.cloudinary.com/dvdhtdzwp/image/upload/v1730017407/fll3wgfvplvxdygmmr1h.png" alt="DevsCorp Logo" />
-</p>
-<p style="text-align: center;">
-  <strong>"Superación dialéctica de nuestra realidad material."</strong>
-</p>
+<div align="center">
+  <h1>DevsCorp</h1>
+  <a href="https://devscorp.com.co">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/dvdhtdzwp/image/upload/v1730017407/fll3wgfvplvxdygmmr1h.png">
+      <img alt="Next.js logo" src="https://res.cloudinary.com/dvdhtdzwp/image/upload/v1730017407/fll3wgfvplvxdygmmr1h.png" height="128">
+    </picture>
+  </a>
+  <h3>"Superación dialéctica de nuestra realidad material."</h3>
+</div>
 
 
 **DevsCorp** es una startup tecnológica joven y dinámica que desarrolla soluciones innovadoras para transformar la educación superior, mejorar la salud mental y garantizar la seguridad digital. Nuestra misión es crear tecnologías avanzadas que aborden problemas globales, con un enfoque especial en universidades e instituciones educativas de todo el mundo.
