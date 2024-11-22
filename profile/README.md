@@ -3,7 +3,7 @@
   <a href="https://devscorp.com.co">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/dvdhtdzwp/image/upload/v1730017407/fll3wgfvplvxdygmmr1h.png">
-      <img alt="Next.js logo" src="https://res.cloudinary.com/dvdhtdzwp/image/upload/v1730017407/fll3wgfvplvxdygmmr1h.png" height="128">
+      <img alt="DevsCorp logo" src="https://res.cloudinary.com/dvdhtdzwp/image/upload/v1730017407/fll3wgfvplvxdygmmr1h.png" height="128">
     </picture>
   </a>
   <h3>"Superación dialéctica de nuestra realidad material."</h3>
