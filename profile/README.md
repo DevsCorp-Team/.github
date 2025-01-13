@@ -79,7 +79,7 @@ Estamos comprometidos con el uso de **tecnologías de código abierto** y las me
 
 ## Visita Nuestro Sitio Web 🌐
 
-[DevsCorp.com.co](https://devscorp.com.co)
+[devscorp.com.co](https://devscorp.com.co)
 
 Descubre más sobre nuestra visión, misión y los proyectos que estamos desarrollando para mejorar la educación universitaria, la salud mental y la seguridad digital.
 
