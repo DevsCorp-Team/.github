@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>DevsCorp</h1>
+  <h1>Devscorp</h1>
   <a href="https://devscorp.com.co">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/dvdhtdzwp/image/upload/v1730017407/fll3wgfvplvxdygmmr1h.png">
